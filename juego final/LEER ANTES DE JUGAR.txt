@@ -1,0 +1,18 @@
+
+Instalacion de python
+comenzamos desargando python desde la pagina oficial python.org
+buscamos el ejecutable de 32 o 64 bits 
+luego procedemos a instalarlo
+para saber si funciona abrimos una ventana de comando, y escribimos python
+por la cual nos montrara en pantalla Python y la version instalada
+
+
+Instalacion de Pygame
+procedemos a ir a la pagina ofical de pygame pygame.org
+vamos a la seccion de descargas.
+
+    PARA PODER JUGAR USTED NECESITARA DE:
+    
+       * TENER INSTALADO PYGAME
+       *  PYTHON (VERSION USADA 3.9.0)
+       * EN MI CASO USE VISUAL STUDIO CODE
